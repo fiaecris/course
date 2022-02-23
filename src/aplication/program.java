@@ -15,6 +15,10 @@ public class program {
 		x = new Triangle();
 		y = new Triangle();
 		
+		System.out.println("Versão: 22/02/2002");
+		System.out.println("==================");
+		System.out.println(" ");
+		
 		System.out.println("Enter the measures of triangle X: ");
 		x.a = sc.nextDouble();
 		x.b = sc.nextDouble();
